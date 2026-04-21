@@ -2,7 +2,7 @@
 
 > LangChain mesaj yapısını kullanarak Groq üzerinde Llama 3.1 modeline prompt gönderme ve cevap alma — RAG serisinin 1. adımı
 
-[![Colab'da Aç](https://img.shields.io/badge/Colab'da%20Aç-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Colab'da Aç](https://img.shields.io/badge/Colab'da%20Aç-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/yasir237/rag-langchain-1/blob/main/rag_langchain_1.ipynb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullaniciadin)
 
 ---
