@@ -1,4 +1,4 @@
-# LangChain ile Yapay Zeka Yanıtını Kolaylaştırma
+# LangChain ile Yapay Zeka Yanıtını Yönetmek
 
 > LangChain mesaj yapısını kullanarak Groq üzerinde Llama 3.1 modeline prompt gönderme ve cevap alma — RAG serisinin 1. adımı
 
