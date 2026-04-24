@@ -100,7 +100,6 @@ Bu notebook, LangChain ile kurulan RAG serisinin **1. adımıdır.**
 [3]    Çoklu zincir kurma ve zincirleri bağlama
 [4]    Metin bölme ve embedding
 [5]    Vektör store ve benzerlik araması
-[6]    Uçtan uca RAG pipeline
 ```
 
 Her adım bir sonrakine köprü kuruyor.
